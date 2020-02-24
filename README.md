@@ -1,2 +1,2 @@
 # curso-react
-React curse from Frontend Masters.
+Frontend Masters react course. Complete Intro to React v4.
